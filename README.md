@@ -31,10 +31,13 @@ My goal is to document my hardware and embedded projects in order to build a tec
 
 ## 🚀 Featured Projects
 - 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
-  Board game project developed using **C and C++**.
+  Board game developed in **C/C++**, focused on game logic, data structures, and system flow control.
 
 - ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
-  Control systems practices and simulations of a **ball-and-beam** system.
+  **Automatic control** practices and simulations applied to dynamic systems such as the ball-and-beam model.
+
+- 🧠 **[Digital Tamagotchi – FPGA](https://github.com/santolinez/Digital-I-Proyecto-Tamagotchi-Eris)**  
+  **FPGA-based digital electronics** project using combinational and sequential logic, state machines, and physical input/output interaction.
 
 
 </details>
@@ -62,11 +65,13 @@ Mon objectif est de documenter mes projets hardware et embarqués afin de consti
 
 ## 🚀 Projets Mis en Avant
 - 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
-  Projet de jeu de société développé en **C et C++**.
+  Jeu de société développé en **C/C++**, axé sur la logique de jeu, les structures de données et le contrôle du flux du système.
 
 - ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
-  Travaux pratiques et simulations de **commande automatique** d’un système **bille–poutre**.
+  Travaux pratiques et simulations de **commande automatique**, appliqués à des systèmes dynamiques comme le modèle bille–poutre.
 
+- 🧠 **[Tamagotchi Numérique – FPGA](https://github.com/santolinez/Digital-I-Proyecto-Tamagotchi-Eris)**  
+  Projet d’**électronique numérique sur FPGA**, basé sur la logique combinatoire et séquentielle, les machines à états et l’interaction via entrées/sorties physiques.
 
 </details>
 
@@ -92,66 +97,54 @@ Mi objetivo es documentar mis proyectos de hardware y sistemas embebidos para cr
 
 ## 🚀 Proyectos Destacados
 - 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
-  Proyecto de juego de mesa desarrollado en **C y C++**.
+  Juego de mesa implementado en **C/C++**, enfocado en lógica de juego, estructuras de datos y control del flujo del sistema.
 
 - ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
-  Prácticas y simulaciones de control automático de un sistema **bola–viga**.
+  Prácticas y simulaciones de **control automático**, aplicadas a sistemas dinámicos como el modelo bola–viga.
+
+- 🧠 **[Tamagotchi Digital – FPGA](https://github.com/santolinez/Digital-I-Proyecto-Tamagotchi-Eris)**  
+  Proyecto de **electrónica digital en FPGA**, basado en lógica combinacional y secuencial, máquinas de estados e interacción mediante entradas y salidas físicas.
+
 
 </details>
+## 🛠️ Technical Skills
 
-## 📊 Mis Estadísticas
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaDuenas&layout=compact&theme=nord)
-
-
-
----
-
-## 🛠️ Competencias Técnicas
-
-### 🤖 Robótica, Control y Modelado
-<p align="left">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-ED6B00?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-3580AD?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/PLCS-222222?style=for-the-badge&logo=siemens&logoColor=white" />
-</p>
-
-### 🧠 Inteligencia Artificial y Visión
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### 🔌 Electrónica y Sistemas Embebidos
+### 🔌 Electronics, Embedded Systems
 <p align="left">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/VHDL-A00522?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Verilog-F2F2F2?style=for-the-badge&logo=verilog&logoColor=black" />
+<img src="https://img.shields.io/badge/FPGA-5E2CA5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PCB_Design-228B22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" 
 </p>
 
-### ⚙️ Herramientas y Otros
+### ⚙️ Control Systems & System Modeling
 <p align="left">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-ED6B00?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-3580AD?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/PLCs-222222?style=for-the-badge&logo=siemens&logoColor=white" />
+</p>
+
+### 🤖 Robotics & Mechanical Design
+<p align="left">
+<img src="https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
+### 🧠 Artificial Intelligence & Computer Vision
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### 🧰 Development Tools
+<p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-F5A623?style=for-the-badge&logo=platformio&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
-
-
-
-
-<div align="center">
-  <a href="https://github.com/NataliaDuenas/Globblers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NataliaDuenas&repo=Globblers&theme=nord" />
-  </a>
-  <a href="https://github.com/NataliaDuenas/Control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NataliaDuenas&repo=Control&theme=nord" />
-  </a>
-</div>
