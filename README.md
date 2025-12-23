@@ -107,6 +107,7 @@ Mi objetivo es documentar mis proyectos de hardware y sistemas embebidos para cr
 
 
 </details>
+
 ## 🛠️ Technical Skills
 
 ### 🔌 Electronics, Embedded Systems
