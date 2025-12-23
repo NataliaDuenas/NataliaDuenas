@@ -29,6 +29,14 @@ My goal is to document my hardware and embedded projects in order to build a tec
 - 📫 **Contact:** nduenass@unal.edu.co
 - 🎹 **Hobbies:** Piano, coffee brewing, cooking, and cycling.
 
+## 🚀 Featured Projects
+- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
+  Board game project developed using **C and C++**.
+
+- ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
+  Control systems practices and simulations of a **ball-and-beam** system.
+
+
 </details>
 
 
@@ -52,6 +60,14 @@ Mon objectif est de documenter mes projets hardware et embarqués afin de consti
 - 📫 **Contact :** nduenass@unal.edu.co
 - 🎹 **Loisirs :** Piano, barista, cuisine et cyclisme.
 
+## 🚀 Projets Mis en Avant
+- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
+  Projet de jeu de société développé en **C et C++**.
+
+- ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
+  Travaux pratiques et simulations de **commande automatique** d’un système **bille–poutre**.
+
+
 </details>
 
 <details>
@@ -73,6 +89,13 @@ Mi objetivo es documentar mis proyectos de hardware y sistemas embebidos para cr
 - 👯 **Comunidad:** Busco crear un espacio de mentoría y ayuda técnica para proyectos estudiantiles.
 - 📫 **Contacto:** nduenass@unal.edu.co
 - 🎹 **Hobbies:** Piano, barismo, cocina y ciclismo.
+
+## 🚀 Proyectos Destacados
+- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
+  Proyecto de juego de mesa desarrollado en **C y C++**.
+
+- ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
+  Prácticas y simulaciones de control automático de un sistema **bola–viga**.
 
 </details>
 
@@ -121,14 +144,7 @@ Mi objetivo es documentar mis proyectos de hardware y sistemas embebidos para cr
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
----
 
-## 🚀 Proyectos Destacados
-- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
-  Proyecto de simulación y lógica con enfoque en control y dinámica.
-
-- ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
-  Prácticas y simulaciones de control automático desarrolladas durante la carrera.
 
 
 <div align="center">
@@ -139,4 +155,3 @@ Mi objetivo es documentar mis proyectos de hardware y sistemas embebidos para cr
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NataliaDuenas&repo=Control&theme=nord" />
   </a>
 </div>
-
