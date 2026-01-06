@@ -15,31 +15,33 @@
 ## 🌟  About Me
 <img align="right" width="220px" src="https://github.com/user-attachments/assets/66f2fc3e-ea2a-4a05-936e-41b455ea39e1" />
 
-As an engineer from the **National University of Colombia** with a double degree at **IMT Atlantique (France)**
+Mechatronics & Robotics engineering student (Double Degree: National University of Colombia / IMT Atlantique, France) focused on **embedded systems, hardware–software integration and prototyping**.
 
-My interests center on electronic design, microcontroller-based systems and firmware development, with experience in **PCB design**, **ESP32-based platforms** and low-level programming for embedded applications.
+Hands-on experience with **microcontrollers (ESP32, PIC), C/C++, sensors, instrumentation and experimental validation** through applied robotics and embedded projects.
 
-I am particularly motivated by hardware–software integration, working on robotics projects as a practical environment to design, prototype and validate electronic and embedded solutions from concept to functional prototype.
+Interested in applied engineering environments involving **firmware development, system integration, testing and validation**.
 
-My goal is to document my hardware and embedded projects in order to build a technical knowledge base that supports students and early-stage developers.
+My goal is to document my hardware and embedded projects to build a practical technical knowledge base for students and early-stage developers.
 
-- **Interests:** Mobile robotics, system dynamics, Human-Robot Interaction (HRI), and embedded hardware.
-- 🌱 **Currently learning:** Advanced robotic dynamics and efficient C++ for real-time systems.
-- 👯 **Community:** I aim to create a mentoring and technical support space for student projects.
-- 📫 **Contact:** nduenass@unal.edu.co
-- 🎹 **Hobbies:** Piano, coffee brewing, cooking, and cycling.
+- **Interests:** Mobile robotics, system dynamics, Human–Robot Interaction (HRI), embedded hardware  
+- 🌱 **Currently learning:** Advanced robotic dynamics and efficient C++ for real-time systems  
+- 👯 **Community:** Interested in mentoring and technical support for student engineering projects  
+- 📫 **Contact:** nduenass@unal.edu.co  
+- 🎹 **Hobbies:** Piano, coffee brewing, cooking, cycling  
 
 ## 🚀 Featured Projects
-- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
-  Board game developed in **C/C++**, focused on game logic, data structures, and system flow control.
 
-- ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
-  **Automatic control** practices and simulations applied to dynamic systems such as the ball-and-beam model.
+- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
+  Embedded board game developed in **C/C++**, structured around game logic, data structures and system flow control.
+
+- 🔧 **[Ball & Beam Control System](https://github.com/NataliaDuenas/Control)**  
+  Embedded control project implementing a closed-loop PID controller on **ESP32**, integrating sensors and actuators with experimental validation of system dynamics.
 
 - 🧠 **[Digital Tamagotchi – FPGA](https://github.com/santolinez/Digital-I-Proyecto-Tamagotchi-Eris)**  
-  **FPGA-based digital electronics** project using combinational and sequential logic, state machines, and physical input/output interaction.
+  FPGA-based digital system using combinational and sequential logic, finite state machines and physical I/O, designed and validated on real hardware.
 
-
+- 📷 **[Drone QR Scanner](https://github.com/NataliaDuenas/LecturaCodigo)**  
+  Computer vision system processing real-time video streams to detect and decode QR codes using **Python and OpenCV**, with data extraction and result logging.
 </details>
 
 
@@ -49,29 +51,33 @@ My goal is to document my hardware and embedded projects in order to build a tec
 ## 🌟  À propos de moi
 <img align="right" width="220px" src="https://github.com/user-attachments/assets/66f2fc3e-ea2a-4a05-936e-41b455ea39e1" />
 
-Ingénieure diplômée de l’**Université Nationale de Colombie** avec un double diplôme à **IMT Atlantique (France)**, je m’oriente vers le **développement hardware et les systèmes embarqués**.
+Élève ingénieure en Mécatronique et Robotique (Double Diplôme : Université Nationale de Colombie / IMT Atlantique, France), orientée vers le **développement de systèmes embarqués, l’intégration hardware/software et le prototypage**.
 
-Mes centres d’intérêt portent sur la conception électronique, les systèmes à microcontrôleurs et le développement firmware, avec une expérience en **conception de PCB**, plateformes **ESP32** et programmation bas niveau pour les applications embarquées.
+Expérience pratique en **microcontrôleurs (ESP32, PIC), programmation C/C++, capteurs, instrumentation et validation expérimentale** à travers des projets concrets en robotique et systèmes embarqués.
 
-Je m’intéresse particulièrement à l’intégration hardware–software, en utilisant la robotique comme un environnement concret pour concevoir, prototyper et valider des solutions électroniques et embarquées, de l’idée au prototype fonctionnel.
+Intéressée par des environnements d’ingénierie appliquée impliquant **le développement firmware, l’intégration de systèmes, les tests et la validation**.
 
-Mon objectif est de documenter mes projets hardware et embarqués afin de constituer une base de connaissances techniques utile aux étudiants et jeunes développeurs.
+Mon objectif est de documenter mes projets hardware et embarqués afin de constituer une base de connaissances techniques pratiques pour les étudiants et jeunes ingénieurs.
 
-- **Intérêts :** Robotique mobile, dynamique des systèmes, interaction homme-robot (HRI) et matériel embarqué.
-- 🌱 **En apprentissage :** Dynamique robotique avancée et C++ optimisé pour les systèmes temps réel.
-- 👯 **Communauté :** Je souhaite créer un espace de mentorat et d’aide technique pour les projets étudiants.
-- 📫 **Contact :** nduenass@unal.edu.co
-- 🎹 **Loisirs :** Piano, barista, cuisine et cyclisme.
+- **Centres d’intérêt :** Robotique mobile, dynamique des systèmes, interaction homme–robot (HRI), hardware embarqué  
+- 🌱 **En cours d’apprentissage :** Dynamique robotique avancée et C++ efficace pour systèmes temps réel  
+- 👯 **Communauté :** Intérêt pour le mentorat et le support technique de projets étudiants  
+- 📫 **Contact :** nduenass@unal.edu.co  
+- 🎹 **Loisirs :** Piano, préparation de café, cuisine, cyclisme  
 
-## 🚀 Projets Mis en Avant
+## 🚀 Projets Sélectionnés
+
 - 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
-  Jeu de société développé en **C/C++**, axé sur la logique de jeu, les structures de données et le contrôle du flux du système.
+  Jeu de plateau embarqué développé en **C/C++**, structuré autour de la logique de jeu, de structures de données et du contrôle de flux système.
 
-- ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
-  Travaux pratiques et simulations de **commande automatique**, appliqués à des systèmes dynamiques comme le modèle bille–poutre.
+- 🔧 **[Système de Contrôle Ball & Beam](https://github.com/NataliaDuenas/Control)**  
+  Projet de contrôle embarqué implémentant un régulateur PID en boucle fermée sur **ESP32**, intégrant capteurs et actionneurs avec validation expérimentale de la dynamique du système.
 
-- 🧠 **[Tamagotchi Numérique – FPGA](https://github.com/santolinez/Digital-I-Proyecto-Tamagotchi-Eris)**  
-  Projet d’**électronique numérique sur FPGA**, basé sur la logique combinatoire et séquentielle, les machines à états et l’interaction via entrées/sorties physiques.
+- 🧠 **[Digital Tamagotchi – FPGA](https://github.com/santolinez/Digital-I-Proyecto-Tamagotchi-Eris)**  
+  Système numérique sur FPGA utilisant logique combinatoire et séquentielle, machines à états finis et entrées/sorties physiques, conçu et validé sur matériel réel.
+
+- 📷 **[Drone QR Scanner](https://github.com/NataliaDuenas/LecturaCodigo)**  
+  Système de vision par ordinateur traitant des flux vidéo en temps réel pour détecter et décoder des QR codes à l’aide de **Python et OpenCV**, avec extraction et enregistrement des résultats.
 
 </details>
 
@@ -81,29 +87,33 @@ Mon objectif est de documenter mes projets hardware et embarqués afin de consti
 ## 🌟 Sobre mí
 <img align="right" width="220px" src="https://github.com/user-attachments/assets/66f2fc3e-ea2a-4a05-936e-41b455ea39e1" />
 
-Como ingeniera de la **Universidad Nacional de Colombia** con doble diploma en **IMT Atlantique (Francia)**, me enfoco en el **desarrollo de hardware y sistemas embebidos**.
+Estudiante de Ingeniería en Mecatrónica y Robótica (Doble Titulación: Universidad Nacional de Colombia / IMT Atlantique, Francia), orientada al **desarrollo de sistemas embebidos, integración hardware/software y prototipado**.
 
-Mis intereses se centran en el diseño electrónico, los sistemas basados en microcontroladores y el desarrollo de firmware, con experiencia en **diseño de PCB**, plataformas **ESP32** y programación de bajo nivel para aplicaciones embebidas.
+Experiencia práctica en **microcontroladores (ESP32, PIC), programación en C/C++, sensores, instrumentación y validación experimental** a través de proyectos aplicados en robótica y sistemas embebidos.
 
-Me motiva especialmente la integración hardware–software, utilizando proyectos de robótica como un entorno práctico para diseñar, prototipar y validar soluciones electrónicas y embebidas desde la idea hasta un prototipo funcional.
+Interesada en entornos de ingeniería aplicada que involucren **desarrollo de firmware, integración de sistemas, pruebas y validación**.
 
-Mi objetivo es documentar mis proyectos de hardware y sistemas embebidos para crear una base de conocimiento técnico que apoye a estudiantes y desarrolladores en formación.
+Mi objetivo es documentar mis proyectos de hardware y sistemas embebidos para construir una base de conocimiento técnico práctico que apoye a estudiantes y desarrolladores en etapas tempranas.
 
-- **Intereses:** Robótica móvil, dinámica de sistemas, Interacción Humano-Robot (HRI) y hardware embebido.
-- 🌱 **Aprendiendo:** Dinámica robótica avanzada y C++ eficiente para sistemas en tiempo real.
-- 👯 **Comunidad:** Busco crear un espacio de mentoría y ayuda técnica para proyectos estudiantiles.
-- 📫 **Contacto:** nduenass@unal.edu.co
-- 🎹 **Hobbies:** Piano, barismo, cocina y ciclismo.
+- **Intereses:** Robótica móvil, dinámica de sistemas, interacción humano–robot (HRI), hardware embebido  
+- 🌱 **Actualmente aprendiendo:** Dinámica robótica avanzada y C++ eficiente para sistemas en tiempo real  
+- 👯 **Comunidad:** Interés en mentoría y apoyo técnico para proyectos estudiantiles  
+- 📫 **Contacto:** nduenass@unal.edu.co  
+- 🎹 **Hobbies:** Piano, preparación de café, cocina, ciclismo  
 
 ## 🚀 Proyectos Destacados
-- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
-  Juego de mesa implementado en **C/C++**, enfocado en lógica de juego, estructuras de datos y control del flujo del sistema.
 
-- ⚙️ **[Control](https://github.com/NataliaDuenas/Control)**  
-  Prácticas y simulaciones de **control automático**, aplicadas a sistemas dinámicos como el modelo bola–viga.
+- 🤖 **[Globblers](https://github.com/NataliaDuenas/Globblers)**  
+  Juego de mesa embebido desarrollado en **C/C++**, estructurado mediante lógica de juego, estructuras de datos y control del flujo del sistema.
+
+- 🔧 **[Sistema de Control Ball & Beam](https://github.com/NataliaDuenas/Control)**  
+  Proyecto de control embebido que implementa un controlador PID en lazo cerrado sobre **ESP32**, integrando sensores y actuadores con validación experimental de la dinámica del sistema.
 
 - 🧠 **[Tamagotchi Digital – FPGA](https://github.com/santolinez/Digital-I-Proyecto-Tamagotchi-Eris)**  
-  Proyecto de **electrónica digital en FPGA**, basado en lógica combinacional y secuencial, máquinas de estados e interacción mediante entradas y salidas físicas.
+  Sistema digital en FPGA basado en lógica combinacional y secuencial, máquinas de estados finitos e interacción física mediante E/S, diseñado y validado en hardware real.
+
+- 📷 **[Drone QR Scanner](https://github.com/NataliaDuenas/LecturaCodigo)**  
+  Sistema de visión por computador que procesa video en tiempo real para detectar y decodificar códigos QR utilizando **Python y OpenCV**, con extracción y almacenamiento de datos.
 
 
 </details>
